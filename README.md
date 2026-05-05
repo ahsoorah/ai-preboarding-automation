@@ -1,6 +1,6 @@
 # AI-Powered Preboarding Escalation Prototype
 
-This is a functional prototype built for an internship interview with ADT's TA Technology team. It demonstrates a complete, two-part system for automation and AI-driven process improvement.
+This is a functional prototype built for an internship interview with a TA Technology team. It demonstrates a complete, two-part system for automation and AI-driven process improvement.
 
 The goal was to build a workflow that not only automates new hire preboarding but also uses AI to identify high-risk candidates and escalate them to the TA team.
 
