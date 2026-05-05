@@ -31,7 +31,7 @@ Process:
         AI_Alert == FLAGGED
     3.  Action: It sends a welcome email via gmail and creates a follow-up task in Google Tasks for the TA team.
 
-The Pivot
+
 My initial plan was to use Power Automate and Excel. However, I was blocked by an enterprise AAD authentication error (AADSTS500200) that my university's onedrive kept throwing.
 
 I pivoted to an analogous toolset (Zapier/Google) to build a 100% functional prototype. This was done to overcome technical blockers to deliver a working solution.
